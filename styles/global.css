@@ -33,3 +33,41 @@ footer {
     justify-content: flex-end;
     background-color: var(--footer-background);
 }
+
+main {
+    background-image: url(/assets/Barn7.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 15px;
+    padding: 10px;
+    width: 430px;
+    color: rgba(255, 0, 0, 0.61);
+    background-color: aquamarine;
+}
+
+div p {
+    font-size: 1.4rem;
+    width: 420px;
+    height: auto;
+    margin: 15px;
+    padding: 15px;
+    color: rgba(255, 255, 255, 0.726);
+    background-color: rgba(0, 255, 255, 0.61);
+}
+
+.enemies {
+    height: 400px;
+    width: 400px;
+    background-color: rgba(137, 43, 226, 0.74);
+    margin: 10px;
+    padding: 10px;
+}
+
+.enemy {
+    
+}
